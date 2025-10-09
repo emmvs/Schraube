@@ -53,6 +53,11 @@ puts greet('Emma')
 # Formula: area = π * radius²
 # -----------------------------
 
+# Help: Beginning of method for circle_area
+
+# def circle_area(radius)
+# end
+
 puts circle_area(2)
 puts circle_area(1)
 puts circle_area(456)
