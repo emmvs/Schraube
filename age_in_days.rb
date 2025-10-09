@@ -50,7 +50,7 @@
 # git add age_in_days.rb            # Stage your file
 # git commit -m "Add Age in Days exercise"   # Save your changes
 # gh repo create --public --source=.         # Create a GitHub repo (once)
-# git push -u origin main           # Upload your file online
+# git push origin main           # Upload your file online
 
 # --------------------------------------------
 # 🧹 TIPS
