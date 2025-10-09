@@ -56,6 +56,7 @@ puts greet('Emma')
 # Help: Beginning of method for circle_area
 
 # def circle_area(radius)
+  # Some more notes
 # end
 
 puts circle_area(2)
